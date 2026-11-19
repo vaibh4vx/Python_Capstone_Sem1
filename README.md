@@ -92,4 +92,5 @@ Python, NumPy, Data Cleaning, EDA, Statistical Analysis, Business Metrics, Anoma
 ## 👨‍💻 Author
 
 **Vaibhav Rajput**  
-MCA Student | Aspiring Data Analyst
+MCA Student | Aspiring Developer
+
